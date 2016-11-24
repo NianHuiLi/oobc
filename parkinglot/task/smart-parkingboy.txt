@@ -1,0 +1,20 @@
+﻿
+1 given a smart parkingboy
+  when the parkingboy parking the car, 
+  then customer can pick the same car;
+
+2 given a smart parkingboy a car , in a parkinglot, 
+  when the smart parkingboy parking the car, 
+  then parkingboy can pick the same car;
+
+3 given a parkingboy a car with two parkinglot(3), parkinglotFirst has 2 car, parkinglotSecond has 1 car, 
+  when the parkingboy parking the car, 
+  then can pick the same car in parkinglotSecond;
+
+4 given a parkingboy a car with two parkinglot(3), parkinglotFirst has 2 car, parkinglotSecond has 1 car, 
+  when the parkingboy parking the car, 
+  then can pick the same car in parkinglotSecond;
+
+5 given a parkingboy a car with two parkinglot(3), parkinglotFirst has 1 car, parkinglotSecond has 1 car, 
+  when the parkingboy parking the car, 
+  then can pick the same car in parkinglotFirst; 

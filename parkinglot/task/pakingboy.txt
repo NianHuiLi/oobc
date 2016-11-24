@@ -1,0 +1,15 @@
+﻿1 given a parkingboy a car, 
+  when the parkingboy parking the car, 
+  then customer can pick the same car;
+
+2 given a parkingboy a car , in a parkinglot, 
+  when the parkingboy parking the car, 
+  then parkingboy can pick the same car;
+
+3 given a parkingboy a car with two empty parkinglot , 
+  when the parkingboy parking the car, 
+  then can pick the same car in first parkinglot;
+
+4 given a parkingboy a car with two parkinglot and the first parkinglot full,
+
+   

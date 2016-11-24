@@ -1,0 +1,15 @@
+﻿
+1.given a super parkingboy a car , in a parkinglot, 
+  when the super parkingboy parking the car, 
+  then customer can pick the same car from the parkinglot;
+  ...
+
+6.given a super parkingboy a car with parkinglot(2), parkinglot(4),
+and each parkinglot have 1 car parked, 
+when the super parkingboy parking the car,  
+then super parkingboy can pick the same car from the parkinglot(4); 
+
+7.given a super parkingboy a car with parkinglot(2), parkinglot(5),
+and parkinglot(2) have 1 car parked, parkinglot(5) have 3 car parked, 
+when the super parkingboy parking the car, 
+then customer can pick the same car from the parkinglot(2);
